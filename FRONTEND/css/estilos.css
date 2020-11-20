@@ -1,0 +1,14 @@
+.login{   background-color: lightpink;}
+.registro{ background-color: rgb(153, 167, 184);}
+.principal{  background-color: skyblue; }
+#form-login { background-color:lightgrey;}
+#form-registro { background-color:lightgrey;}
+.input-group-addon{    background: #eeeeee;   padding: 6px 13px;}
+.cuadro{
+    top: 4cm;
+    left: 0.3cm;
+    right: auto;
+    position: relative;
+}
+h1{   color: steelblue;}
+

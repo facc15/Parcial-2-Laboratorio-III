@@ -1,0 +1,10 @@
+{
+    "name" : "vendor/mpdf",
+    "description" : "",
+    "require":{
+        "slim/slim": "3.*",
+        "firebase/php-jwt": "^5.2",
+        "mpdf/mpdf": "^8.0"
+
+    }
+}
